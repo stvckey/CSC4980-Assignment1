@@ -7,3 +7,6 @@ Run
 - We then divide the diameter found with the distance tool by our PPI (31.7 in my case) and that will present us with the diameter of the container in inches.
 
 - 110.99px /31.7PPI = 3.5in
+
+# Part C
+-Run this app to show a RGB stream from the mono camera.
