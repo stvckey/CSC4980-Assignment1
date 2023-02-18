@@ -9,4 +9,4 @@ Run
 - 110.99px /31.7PPI = 3.5in
 
 # Part C
--Run this app to show a RGB stream from the mono camera.
+-Run the Assignment1PartC_exported.m app to show a RGB stream from the mono camera.
