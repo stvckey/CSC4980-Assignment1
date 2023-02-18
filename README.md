@@ -1,5 +1,6 @@
 # CSC4980-Assignment1
 
+# Part A
 Run
 - Assignment1CV.mlx to display the image used for processing
 - drag the end-points of 'diameter' region props in order to measure pixel length of the object in the image
